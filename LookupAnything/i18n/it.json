@@ -155,7 +155,7 @@
     "location.beach": "spiaggia",
     "location.beach.east-pier": "spiaggia (molo orientale)",
     "location.bugLand": "tana dell'insetto mutante",
-    "location.busStop": "bus stop", // TODO
+    "location.busStop": "fermata dell'autobus", // TODO
     "location.desert": "deserto",
     "location.farm": "fattoria",
     "location.farmCave": "grotta nella fattoria",
@@ -170,7 +170,7 @@
     "location.submarine": "sottomarino",
     "location.town": "paese",
     "location.town.northmost-bridge": "paese (ponte Nord)",
-    "location.tunnel": "bus tunnel", // TODO
+    "location.tunnel": "galleria dell'autobus", // TODO
     "location.undergroundMine": "miniera",
     "location.undergroundMine.level": "miniera livello {{level}}",
     "location.witchSwamp": "palude della strega",
@@ -527,7 +527,7 @@
     "player.foraging-skill": "Racc. selvatica",
     "player.mining-skill": "Estrazione",
     "player.luck": "Fortuna",
-    "player.save-format": "Salva format",
+    "player.save-format": "Salva formato",
 
     // values
     "player.farm-map.custom": "Personalizzata",
